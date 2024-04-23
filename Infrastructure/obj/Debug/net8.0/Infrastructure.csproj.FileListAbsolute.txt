@@ -1,0 +1,104 @@
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/bin/Debug/net8.0/Infrastructure.runtimeconfig.json
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/bin/Debug/net8.0/ApplicationCore.dll
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/bin/Debug/net8.0/ApplicationCore.pdb
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/Infrastructure.runtimeconfig.json
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/ApplicationCore.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CopyComplete
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
+/Users/justynamalinowska/Downloads/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/Infrastructure.runtimeconfig.json
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/ApplicationCore.dll
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/ApplicationCore.pdb
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/Infrastructure.runtimeconfig.json
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/ApplicationCore.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CopyComplete
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\bin\Debug\net8.0\ApplicationCore.dll
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\bin\Debug\net8.0\ApplicationCore.pdb
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\bin\Debug\net8.0\ApplicationCore.dll
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\bin\Debug\net8.0\ApplicationCore.pdb
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
