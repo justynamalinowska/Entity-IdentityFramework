@@ -1,0 +1,68 @@
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+D:/Users/justyna.malinowska/Downloads/Backend-LAB-WSEI-main/Backend-LAB-WSEI-main/3. Entity Framework/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+/Users/justynamalinowska/Downloads/wsei-backend-lab/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/justynamalinowska/Downloads/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Downloads/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Downloads/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+/Users/justynamalinowska/Downloads/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Downloads/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.sourcelink.json
+/Users/justynamalinowska/Downloads/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+/Users/justynamalinowska/Downloads/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+C:/Users/Justyna/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.sourcelink.json
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+/Users/justynamalinowska/Downloads/wsei-backend-lab/wsei-backend-lab/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\bin\Debug\net8.0\ApplicationCore.deps.json
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\bin\Debug\net8.0\ApplicationCore.dll
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\bin\Debug\net8.0\ApplicationCore.pdb
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ApplicationCore.dll
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
+C:\Users\Justyna\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\bin\Debug\net8.0\ApplicationCore.deps.json
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\bin\Debug\net8.0\ApplicationCore.dll
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\bin\Debug\net8.0\ApplicationCore.pdb
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ApplicationCore.dll
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
+C:\Users\HP\Downloads\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\wsei-backend-lab\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
